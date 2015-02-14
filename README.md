@@ -1,4 +1,4 @@
-# &lt;my-repo&gt;
+# &lt;burning-polymer-ele&gt;
 
 > A bare minimum custom element starter-kit using [Polymer](http://www.polymer-project.org/).
 >
@@ -8,17 +8,17 @@
 
 ## Demo
 
-[Check it live!](http://my-user.github.io/my-repo)
+[Check it live!](http://my-user.github.io/burning-polymer-ele)
 
 ## Install
 
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install my-repo --save
+$ bower install burning-polymer-ele --save
 ```
 
-Or [download as ZIP](https://github.com/my-user/my-repo/archive/master.zip).
+Or [download as ZIP](https://github.com/my-user/burning-polymer-ele/archive/master.zip).
 
 ## Usage
 
@@ -31,13 +31,13 @@ Or [download as ZIP](https://github.com/my-user/my-repo/archive/master.zip).
 2. Import Custom Element:
 
     ```html
-    <link rel="import" href="bower_components/my-repo/dist/my-element.html">
+    <link rel="import" href="bower_components/burning-polymer-ele/dist/burning-polymer-ele.html">
     ```
 
 3. Start using it!
 
     ```html
-    <my-element></my-element>
+    <burning-polymer-ele></burning-polymer-ele>
     ```
 
 ## Options
@@ -102,7 +102,7 @@ In order to run it locally you'll need to fetch some dependencies and a basic se
 
 ## History
 
-For detailed changelog, check [Releases](https://github.com/my-user/my-repo/releases).
+For detailed changelog, check [Releases](https://github.com/my-user/burning-polymer-ele/releases).
 
 ## License
 
